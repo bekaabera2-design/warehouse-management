@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "sku": "WH-001",
+    "name": "Industrial Fan",
+    "category": "Electronics",
+    "location": "Aisle 1, Shelf B",
+    "currentStock": 45,
+    "reorderLevel": 20,
+    "reorderQuantity": 50,
+    "unitPrice": 89.99,
+    "supplier": "TechSupplies Inc.",
+    "lastRestocked": "2024-04-01",
+    "createdAt": "2024-04-20T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "sku": "WH-002",
+    "name": "Safety Gloves",
+    "category": "Safety Equipment",
+    "location": "Aisle 3, Shelf A",
+    "currentStock": 8,
+    "reorderLevel": 15,
+    "reorderQuantity": 100,
+    "unitPrice": 12.50,
+    "supplier": "SafetyFirst Co.",
+    "lastRestocked": "2024-03-15",
+    "createdAt": "2024-04-20T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "sku": "WH-003",
+    "name": "Wooden Pallets",
+    "category": "Packaging",
+    "location": "Aisle 5, Zone D",
+    "currentStock": 120,
+    "reorderLevel": 50,
+    "reorderQuantity": 100,
+    "unitPrice": 25.00,
+    "supplier": "Pallet Supply Co.",
+    "lastRestocked": "2024-04-10",
+    "createdAt": "2024-04-20T10:00:00.000Z"
+  }
+]
