@@ -10,8 +10,8 @@
     "reorderQuantity": 50,
     "unitPrice": 89.99,
     "supplier": "TechSupplies Inc.",
-    "lastRestocked": "2024-04-01",
-    "createdAt": "2024-04-20T10:00:00.000Z"
+    "lastRestocked": "2027-04-01",
+    "createdAt": "2027-04-20T10:00:00.000Z"
   },
   {
     "id": 2,
@@ -24,8 +24,8 @@
     "reorderQuantity": 100,
     "unitPrice": 12.50,
     "supplier": "SafetyFirst Co.",
-    "lastRestocked": "2024-03-15",
-    "createdAt": "2024-04-20T10:00:00.000Z"
+    "lastRestocked": "2027-03-15",
+    "createdAt": "2027-04-20T10:00:00.000Z"
   },
   {
     "id": 3,
@@ -38,7 +38,7 @@
     "reorderQuantity": 100,
     "unitPrice": 25.00,
     "supplier": "Pallet Supply Co.",
-    "lastRestocked": "2024-04-10",
-    "createdAt": "2024-04-20T10:00:00.000Z"
+    "lastRestocked": "2027-04-10",
+    "createdAt": "2027-04-20T10:00:00.000Z"
   }
 ]
